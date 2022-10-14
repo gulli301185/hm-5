@@ -1,0 +1,27 @@
+.comment{
+    margin:0 auto;
+    width: 400px;
+    height: 200px;
+    border: 1px solid;
+    background-color: darksalmon;
+}
+
+.avatar{
+    width: 120px;
+    border-radius: 100ch;
+   
+}
+
+.userInfo{
+    margin-left: 25px;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.date{
+    text-align: center;
+}
+
