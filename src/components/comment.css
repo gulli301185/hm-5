@@ -9,16 +9,20 @@
 .avatar{
     width: 120px;
     border-radius: 100ch;
+    margin-top: 30px;
+    margin-left: -20px;
    
 }
 
 .userInfo{
-    margin-left: 25px;
+    margin-left: 20px;
     text-align: center;
 }
 .text{
     text-align: center;
     padding-top: 20px;
+    font-weight: 600;
+   
 }
 
 .date{
